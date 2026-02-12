@@ -1,2 +1,2 @@
-# git1
-just in a learning phase
+# Welcome
+just in a learning phase, it takes time but lets go on....
